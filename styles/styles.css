@@ -426,6 +426,11 @@ textarea {
   flex-wrap: wrap;
 }
 
+#footer__social a,
+#contact__social a {
+  text-decoration: none;
+}
+
 @media screen and (min-width: 768px) {
   #main-nav {
     height: 80px;
